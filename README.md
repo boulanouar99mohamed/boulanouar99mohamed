@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi I'm Boulanouar Mohamed 👋
+I'm a CS student I specialize in web development 🌍, processing data 🎯 and a bit of designing.
 <!--
 **boulanouar99mohamed/boulanouar99mohamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[LinkedIn](https://www.linkedin.com/in/boulanouar-mohamed-a5b58320a/)
