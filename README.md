@@ -1,5 +1,5 @@
 ### Hi I'm Boulanouar Mohamed 👋
-### 👋 Glad to see you here! 😍
+👋 Glad to see you here! 😍
 
 I'm a CS student I specialize in web development 🌍, processing data 🎯 and a bit of designing.
 
